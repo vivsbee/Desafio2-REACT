@@ -1,12 +1,26 @@
-# React + Vite
+# 📘 Desafio 2 - React | Foro Gamer Fan Club 🎮
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Es una landing page diseñada como punto de encuentro para entusiastas del mundo gamer. Forma parte del Desafío Técnico 2, y busca aplicar herramientas modernas de desarrollo web en un entorno creativo, con enfoque en React, Tailwind CSS y React Hook Form.
+Este sitio web simula una página de bienvenida a un club de fans gamer. Incluye una introducción al club, una galería visual de juegos icónicos y un formulario para que nuevos miembros puedan inscribirse fácilmente.
 
-Currently, two official plugins are available:
+# 🛠️ Tecnologías Utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [React Hook Form](https://react-hook-form.com/)
 
-## Expanding the ESLint configuration
+# 📂 Estructura del Proyecto
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- `Header.jsx` – Encabezado con título del club y lema.
+- `About.jsx` – Sección introductoria explicando el propósito del club.
+- `Gallery.jsx` – Sección visual con tarjetas de juegos.
+- `RegistrationForm.jsx` – Formulario de inscripción para nuevos miembros.
+- `Footer.jsx` – Pie de página con link a steam y derechos de autor.
+
+# Autor(es)
+
+Realizado por: Lina V. Garnica Gómez 
+
+<p>Si le gustó el contenido del repositorio, ¡apóyanos dando una ⭐ al proyecto!</p>
+<p>Perdón profe, siempre se me olvida el read.me 😭</p>
